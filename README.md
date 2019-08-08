@@ -1,9 +1,13 @@
-# Python Machine Learning Notebooks (Tutorial style)
+| Name | Description | Date
+| :- |-------------: | :-:
+|<font color=red>__Reza Hashemi__</font>| __Python Machine Learning__.  | __On 10th of August 2019__
+
+# Python Machine Learning Notebooks (Tutorial Model-S)
 
 Essential codes/demo IPython notebooks for jump-starting machine learning/data science.
 
 ---
-### Reza Hashemi, Dearborn Heights, Mi ([Please feel free to add me on LinkedIn here](https://www.linkedin.com/in/rezahashemidev/))
+### Reza Hashemi, Dearborn heights, Mi ([Please feel free to add me on LinkedIn here](www.linkedin.com/in/rezahashemidev))
 ---
 
 ### Requirements
@@ -17,7 +21,7 @@ Essential codes/demo IPython notebooks for jump-starting machine learning/data s
 * **Seaborn (`$ pip install seaborn`)**
 * **Sympy (`$ pip install sympy`)**
 ---
-You can start with this article that I wrote in Heartbeat magazine (on Medium platform): 
+You can start with this article that I wrote in Heartbeat magazine (on Medium platform):
 ### ["Some Essential Hacks and Tricks for Machine Learning with Python"](https://heartbeat.fritz.ai/some-essential-hacks-and-tricks-for-machine-learning-with-python-5478bc6593f2)
 <img src="https://cookieegroup.com/wp-content/uploads/2018/10/2-1.png" width="450" height="300"/>
 
