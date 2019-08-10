@@ -28,8 +28,8 @@ You can start with this article that I wrote in Heartbeat magazine (on Medium pl
 ## Essential tutorial-type notebooks on Pandas and Numpy
 Jupyter notebooks covering a wide range of functions and operations on the topics of NumPy, Pandans, Seaborn, matplotlib etc.
 * **[Basics of Numpy array](https://github.com/rezapci/Machine-Learning/blob/master/Pandas%20and%20Numpy/Basics%20of%20Numpy%20arrays.ipynb)**
-* **[Basics of Pandas DataFrame](https://github.com/rezapci/PythonMachineLearning/blob/master/Pandas%20and%20Numpy/Basics%20of%20Pandas%20DataFrame.ipynb)**
-* **[Basics of Matplotlib and Descriptive Statistics](https://github.com/rezapci/PythonMachineLearning/blob/master/Pandas%20and%20Numpy/Basics%20of%20Matplotlib%20and%20Descriptive%20Statistics.ipynb)**
+* **[Basics of Pandas DataFrame](https://github.com/rezapci/Machine-Learning/blob/master/Pandas%20and%20Numpy/Basics%20of%20Pandas%20DataFrame.ipynb)**
+* **[Basics of Matplotlib and Descriptive Statistics](https://github.com/rezapci/Machine-Learning/blob/master/Pandas%20and%20Numpy/Basics%20of%20Matplotlib%20and%20Descriptive%20Statistics.ipynb)**
 
 ## Tutorial-type notebooks covering regression, classification, clustering, dimensionality reduction, and some basic neural network algorithms
 
@@ -37,7 +37,7 @@ Jupyter notebooks covering a wide range of functions and operations on the topic
 * Simple linear regression with t-statistic generation
 <img src="https://slideplayer.com/slide/6053182/20/images/10/Simple+Linear+Regression+Model.jpg" width="400" height="300"/>
 
-* [Multiple ways to perform linear regression in Python and their speed comparison](https://github.com/rezapci/Machine-Learning-with-Python/blob/master/Regression/Linear_Regression_Methods.ipynb) ([check the article I wrote on freeCodeCamp](https://medium.freecodecamp.org/data-science-with-python-8-ways-to-do-linear-regression-and-measure-their-speed-b5577d75f8b))
+* [Multiple ways to perform linear regression in Python and their speed comparison](https://github.com/rezapci/Machine-Learning/blob/master/Regression/Linear_Regression_Methods.ipynb) ([check the article I wrote on freeCodeCamp](https://medium.freecodecamp.org/data-science-with-python-8-ways-to-do-linear-regression-and-measure-their-speed-b5577d75f8b))
 
 * [Multi-variate regression with regularization](https://github.com/rezapci/Machine-Learning-with-Python/blob/master/Regression/Multi-variate%20LASSO%20regression%20with%20CV.ipynb)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/L1_and_L2_balls.svg/300px-L1_and_L2_balls.svg.png"/>
@@ -45,7 +45,7 @@ Jupyter notebooks covering a wide range of functions and operations on the topic
 * Polynomial regression using ***scikit-learn pipeline feature*** ([check the article I wrote on *Towards Data Science*](https://towardsdatascience.com/machine-learning-with-python-easy-and-robust-method-to-fit-nonlinear-data-19e8a1ddbd49))
 * Decision trees and Random Forest regression (showing how the Random Forest works as a robust/regularized meta-estimator rejecting overfitting)
 
-* [Detailed visual analytics and goodness-of-fit diagnostic tests for a linear regression problem](https://github.com/rezapci/Machine-Learning-with-Python/blob/master/Regression/Regression_Diagnostics.ipynb)
+* [Detailed visual analytics and goodness-of-fit diagnostic tests for a linear regression problem](https://github.com/rezapci/Machine-Learning/blob/master/Regression/Regression%20Diagnostics.ipynb)
 
 -----
 
