@@ -83,7 +83,7 @@ Jupyter notebooks covering a wide range of functions and operations on the topic
 ---
 
 ### Deep Learning/Neural Network
-* [Demo notebook to illustrate the superiority of deep neural network for complex nonlinear function approximation task](https://github.com/rezapci/Machine-Learning-with-Python/blob/master/Function%20Approximation%20by%20Neural%20Network/Polynomial%20regression%20-%20linear%20and%20neural%20network.ipynb)
+* [Demo notebook to illustrate the superiority of deep neural network for complex nonlinear function approximation task](https://github.com/rezapci/Machine-Learning/blob/master/Function%20Approximation%20by%20Neural%20Network/Polynomial%20regression%20-%20linear%20and%20neural%20network.ipynb)
 * Step-by-step building of 1-hidden-layer and 2-hidden-layer dense network using basic TensorFlow methods
 
 ---
@@ -94,7 +94,7 @@ Jupyter notebooks covering a wide range of functions and operations on the topic
 * Here is my article on Medium on this topic: [Random regression and classification problem generation with symbolic expression](https://towardsdatascience.com/random-regression-and-classification-problem-generation-with-symbolic-expression-a4e190e37b8d)
 ---
 
-### [Simple deployment examples (serving ML models on web API)](https://github.com/rezapci/Machine-Learning-with-Python/tree/master/Deployment)
+### [Simple deployment examples (serving ML models on web API)](https://github.com/rezapci/Machine-Learning/tree/master/Deployment)
 * Serving a linear regression model through a simple HTTP server interface. User needs to request predictions by executing a Python script. Uses `Flask` and `Gunicorn`.
 
 * Serving a recurrent neural network (RNN) through a HTTP webpage, complete with a web form, where users can input parameters and click a button to generate text based on the pre-trained RNN model. Uses `Flask`, `Jinja`, `Keras`/`TensorFlow`, `WTForms`.
