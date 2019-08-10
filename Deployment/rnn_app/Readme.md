@@ -1,6 +1,6 @@
 | Name | Description | Date
 | :- |-------------: | :-:
-|<font color=red>__Reza Hashemi__</font>| __Web-app generating patent abstract like text using a Recurrent Neural Net (RNN)__.  | __On 8th of August 2019__
+|<font color=red>__Reza Hashemi__</font>| ____.  | __On 8th of August 2019__
 
 ## Web-app generating patent abstract like text using a Recurrent Neural Net (RNN)
 
