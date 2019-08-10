@@ -39,4 +39,4 @@ The key is to find the sweet spot that minimizes bias and variance by finding th
 Of course with more data any model can improve, and different models may be optimal.
 
 ### Following is the intuitive illustration of model complexity curve from Andrew Ng's Machine Learning course
-![complexity_curve](https://raw.githubusercontent.com/rezapci/PythonMachineLearning/master/Images/Complexity_curve_example.PNG)
+![complexity_curve](https://github.com/rezapci/Machine-Learning/blob/master/Images/Complexity_curve_example.PNG)
