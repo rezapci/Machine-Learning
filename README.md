@@ -1,6 +1,6 @@
 | Name | Description | Date
 | :- |-------------: | :-:
-|<font color=red>__Tirthajyoti Sarkar__</font>| __Python Machine Learning__.  | __On 8th of August 2019__
+|<font color=red>__Reza Hashemi__</font>| __Python Machine Learning__.  | __On 8th of August 2019__
 
 # Python Machine Learning Notebooks (Tutorial Model-S)
 
