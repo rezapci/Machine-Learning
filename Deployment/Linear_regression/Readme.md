@@ -1,6 +1,6 @@
 | Name | Description | Date
 | :- |-------------: | :-:
-|<font color=red>__Reza Hashemi__</font>| __linear regression model__.  | __On 03 of August 2019__
+|<font color=red>__Reza Hashemi__</font>| __linear regression model__.  | __On 3rd of August 2019__
 
 
 ## How to serve a linear regression model on a web API using Flask and Gunicorn
