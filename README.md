@@ -7,7 +7,7 @@
 Essential codes/demo IPython notebooks for jump-starting machine learning/data science.
 
 ---
-### Reza Hashemi, Dearborn heights, Mi [Please feel free to add me on LinkedIn here](www.linkedin.com/in/rezahashemidev"Named link title")
+### Reza Hashemi, Dearborn heights, Mi [Please feel free to add me on LinkedIn here](www.linkedin.com/in/rezahashemidev "Please feel free to add me on LinkedIn here")
 ---
 
 ### Requirements
